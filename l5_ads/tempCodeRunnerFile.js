@@ -1,0 +1,1 @@
+Promise.race([myPromise1,myPromise2,myPromise3,myPromise4])
